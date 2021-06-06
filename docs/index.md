@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 Course:
-0. (Environment setup on HPC)[00.Environmen_setup.md]
+0. [Environment setup on HPC](00.Environmen_setup.md)
