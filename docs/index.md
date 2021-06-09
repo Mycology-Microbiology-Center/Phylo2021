@@ -1,4 +1,5 @@
-## Phylogenetic reconstruction workshop, University of Tartu, 2021 
+## Phylogenetic reconstruction workshop
+**University of Tartu, 2021** 
 
 Welcome! With this workshop we want to share knowledge on how to run phylogenetic software on an HPC computing cluster, and then how to plot resulting trees in R environment. We will not cover theory of phylogenetic tree estimations, nor go deeply into how to select parameters and priors for phylogenetic software - the focus here is on the most technical aspects of the work. The intended audience is taxonomists or people who need to produce and visualize phylogenetic trees more efficiently. 
 Since the workshop popped up spontaneously and was not planned ahead, please, consider this to be an informal event.
