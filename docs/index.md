@@ -4,10 +4,10 @@
 Welcome! With this workshop we want to share knowledge on how to run phylogenetic software on an HPC computing cluster, and then how to plot resulting trees in R environment. We will not cover theory of phylogenetic tree estimations, nor go deeply into how to select parameters and priors for phylogenetic software - the focus here is on the most technical aspects of the work. The intended audience is taxonomists or people who need to produce and visualize phylogenetic trees more efficiently. 
 Since the workshop popped up spontaneously and was not planned ahead, please, consider this to be an informal event.
 
-### Where
-Tartu, Ravila 14A (Chemicum), auditorium TBA.
-### When
-15.06.2021, 11:00 till 16:00 the latest (we expect the main part to be done in ~3 hours).
+**Where:** Tartu, Ravila 14A (Chemicum), room TBA.
+
+**When:** 15.06.2021, 11:00 till 16:00 the latest (we expect the main part to be done in ~3 hours).
+
 ### Prerequisites
 - HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and PuTTY.
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
