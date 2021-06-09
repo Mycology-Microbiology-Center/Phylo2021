@@ -9,6 +9,7 @@ Since the workshop popped up spontaneously and was not planned ahead, please, co
 **When:** 15.06.2021, 11:00 till 16:00 the latest (we expect the main part to be done in ~3 hours).
 
 ### Prerequisites
+- We'll run analysis on the [Rocket Cluster](https://hpc.ut.ee/en/resources/rocket-cluster-en/) of the University of Tartu. Beforehand, you need to request an account from support@hpc.ut.ee (provide your University of Tartu username). If you are a student, cite and cc: your supervisor.
 - HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and PuTTY.
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
 For Linux and Mac users, it would be possible to use terminal emulator (e.g., `bash`).
