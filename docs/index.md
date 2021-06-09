@@ -13,13 +13,14 @@ Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linu
 For Linux and Mac users, it would be possible to use terminal emulator (e.g., `bash`).
 - R part: It's most convenient to work from [R-studio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: ggtree and ape (can be installed on the workshop).
 
+### Course materials
+0. [Environment setup on HPC](00.Environmen_setup.md)
+1. TBA
 
+### Example files
+TBA
 
-
-
-
-
-
+[delete below]
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mycology-Microbiology-Center/Phylo2021/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -59,5 +60,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-Course:
-0. [Environment setup on HPC](00.Environmen_setup.md)
+
