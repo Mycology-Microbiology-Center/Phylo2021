@@ -10,12 +10,12 @@ Welcome! With this workshop we want to share knowledge on how to run phylogeneti
 **When:** 15.06.2021, 11:00 till 16:00 the latest (we expect the main part to be done in ~3 hours).
 
 ### Prerequisites
-- bring your own laptop.
+- Bring your own laptop.
 - We'll run analysis on the [Rocket Cluster](https://hpc.ut.ee/en/resources/rocket-cluster-en/) of the University of Tartu. Beforehand, you need to request an account from support@hpc.ut.ee (provide your University of Tartu username). If you are a student, cite and cc: your supervisor.
 - HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and [PuTTY](https://winscp.net/eng/downloads.php#putty).
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
 For Linux and Mac users, it would be possible to use a terminal emulator.
-- `R` part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `ape`,`phylotools`, `ggmsa`, `ggplot2`, `Hmisc`, `gdata`, `pals`, `geiger` (can be installed during the workshop).
+- `R` part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `ape`,`phylotools`, `ggplot2`, `Hmisc`, `gdata`, `pals`, `geiger` (can be installed during the workshop).
 - TreeGraph 2 viewer might be needed for operations with Bayesian trees. Please install it from http://treegraph.bioinfweb.info/
 
 ### Course materials
