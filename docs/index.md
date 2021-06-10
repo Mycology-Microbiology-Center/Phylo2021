@@ -11,14 +11,15 @@ Welcome! With this workshop we want to share knowledge on how to run phylogeneti
 
 ### Prerequisites
 - We'll run analysis on the [Rocket Cluster](https://hpc.ut.ee/en/resources/rocket-cluster-en/) of the University of Tartu. Beforehand, you need to request an account from support@hpc.ut.ee (provide your University of Tartu username). If you are a student, cite and cc: your supervisor.
-- HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and PuTTY.
+- HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and [PuTTY](https://winscp.net/eng/downloads.php#putty).
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
-For Linux and Mac users, it would be possible to use terminal emulator (e.g., `bash`).
-- R part: It's most convenient to work from [R-studio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: ggtree and ape (can be installed on the workshop).
+For Linux and Mac users, it would be possible to use a terminal emulator.
+- `R` part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree` and `ape` (can be installed on the workshop).
 
 ### Course materials
-0. [Environment setup on HPC](00.Environmen_setup.md)
-1. TBA
+1. [Environment setup on HPC](00.Environment_setup.md)
+2. [Scheduling jobs on HPC](01.SLURM.md)
+3. TBA
 
 ### Example files
 TBA
