@@ -1,0 +1,63 @@
+Specimen_voucher,Organism,Country,Dev_stage,Altitude,Sequence_ID_EF,Genbank_EF,Species_short
+LE325782,Diachea leucopodia,"Russia: Kamchatka Krai, Central Ridge",sporocarp,187,DIA_LEU_LE325782_PB1F_PB1R,MZ044080,DIA LEU
+LE328364,Diachea leucopodia,"Russia: Kaluga Oblast, Kaluzhskiye Zaseki ture Reserve",sporocarp,210,DIA_LEU_LE328364_PB1F_PB1R,MZ044081,DIA LEU
+LE325164,Diachea subsessilis,"Russia: Kamchatka Krai, Central Ridge",sporocarp,507,DIA_SUB_LE325164_PB1F_PB1R,MZ044078,DIA SUB
+MYX14316,Diachea subsessilis,"Russia: Samara region, Krasnoarmeysky forest",sporocarp,123,DIA_SUB_MYX14316_PB1F_PB1R,MZ044079,DIA SUB
+LE296598,Lamproderma album,"Germany: Bavaria, Garmisch-Partenkirchen",sporocarp,1582,Lamproderma_album_LE296598,MZ202138,LAM ALB
+LE316547,Lamproderma album,"Russia: Kamchatka Peninsula, Central Ridge",sporocarp,575,Lamproderma_album_LE316547,MZ202139,LAM ALB
+LE316550,Lamproderma album,"Russia: Kamchatka Peninsula, Central Ridge",sporocarp,575,Lamproderma_album_LE316550,MZ202140,LAM ALB
+LE285808,Lamproderma arcyrioides,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2565,LAM_ARC_LE285808_sc24842_PB1F_PB1R,MZ044069,LAM ARS
+LE317258,Lamproderma arcyrioides,"Russia: Leningrad Oblast, Vaskelovo",sporocarp,80,LAM_ARC_LE317258_PB1F_PB1R,MZ044071,LAM ARS
+LE317280,Lamproderma arcyrioides,"Russia: Leningrad Oblast, Bolshoy Beryozovy Island",sporocarp,40,LAM_ARC_LE317280_PB1F_PB1R,MZ044072,LAM ARS
+MYX8864,Lamproderma arcyrioides,"Russia: Tver Oblast, Central Forest ture Reserve",sporocarp,270,LAM_ARC_MYX8864_PB1F_PB1R,MZ044073,LAM ARS
+JF431067,Lamproderma columbinum,,,,JF431067,JF431067,LAM COL
+JF431068,Lamproderma columbinum,,,,JF431068,JF431068,LAM COL
+JF431069,Lamproderma columbinum,,,,JF431069,JF431069,LAM COL
+LE325825,Lamproderma columbinum,"Russia: Kamchatka Krai, Central Ridge",sporocarp,155,LAM_COL_LE325825_PB1F_PB1R,MZ044076,LAM COL
+CWU_MYC_MS_401,Lamproderma echinosporum,"France: Savoie, Fontaine-le-Puits",sporocarp,1176,3643,MZ044056,LAM ECH
+sc30572,Lamproderma echinosporum,"France: Savoie, Albertville, Rogix, transect Torrent de Bayet",sporocarp,1141,1CB6SAA001_F2,MZ044068,LAM ECH
+sc31016,Lamproderma echinosporum,"Germany: Bavaria, Wettersteingebirge, Garmisch-Partenkirchen",sporocarp,1895,1CB6SAA001_C2,MZ044067,LAM ECH
+sc31050,Lamproderma echinosporum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1783,,,LAM ECH
+sc31223,Lamproderma echinosporum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1195,,,LAM ECH
+CWU_MYC_MS_400,Lamproderma maculatum,"France: Eure-et-Loir, Bonneval",sporocarp,1682,3635,MZ044059,LAM MAC
+sc30141,Lamproderma maculatum,"Spain: Andalusia, Sierra Nevada, Refugio Porqueira",sporocarp,2442,1CB6SAA001_F3,MZ044065,LAM MAC
+sc30181,Lamproderma maculatum,"Spain: Andalusia, Sierra Nevada, Mirador Puerto Moli",sporocarp,2220,1CB6SAA001_A3,MZ044058,LAM MAC
+LE285189,Lamproderma ovoideum,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2612,LAM_OVO_LE285189_sc25023_PB1F,MZ044066,LAM OVO
+LE285219,Lamproderma ovoideum,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2441,LAM_OVO_LE285219_sc24976_PB1F,MZ044062,LAM OVO
+LE296605,Lamproderma ovoideum,"Germany: Bavaria, Wettersteingebirge, Garmisch-Partenkirchen",sporocarp,1604,LAM_OVO_LE296605_PB1F_PB1R,MZ044063,LAM OVO
+sc26326,Lamproderma ovoideum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1582,,,LAM OVO
+sc28449,Lamproderma ovoideum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1375,,,LAM OVO
+YK2635,Lamproderma ovoideum,Japan,sporocarp,,YK2635_LAMovo_JP_PB1R,MZ044061,LAM OVO
+CWU_MYC_MS_372,Lamproderma pseudomaculatum,"Ukraine: Kharkiv region, Krasnokutsk, tiol ture Park Slobozhanskyi, Volodymyrivka",sporocarp,117,3641,MZ044055,LAM PMA
+CWU_MYC_MS_402,Lamproderma pseudomaculatum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,187,,,LAM PMA
+CWU_MYC_MS_404,Lamproderma pseudomaculatum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,201,3644,MZ044053,LAM PMA
+CWU_MYC_MS_414_b,Lamproderma pseudomaculatum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,204,3634,MZ044054,LAM PMA
+MYX14325,Lamproderma pseudomaculatum,"Russia: Samara region, Krasnoarmeysky forest",sporocarp,137,LAM_PMA_MYX14325_PB1F_PB1R,MZ044057,LAM PMA
+sc30680,Lamproderma pseudomaculatum,"France: Savoie, Albertville, Bonneval",sporocarp,1390,1CB6SAA001_G2,MZ044060,LAM PMA
+JQ031987,Lamproderma pulchellum,,,,,,LAM PLC
+JQ900799,Lamproderma pulchellum,,,,,,LAM PLC
+sc24957,Lamproderma pulchellum,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2431,,,LAM PLC
+sc29089,Lamproderma pulchellum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1683,3630,MZ044050,LAM PLC
+sc31661,Lamproderma pulchellum,"Germany: Bavaria, Upper Bavaria, Garmisch-Partenkirchen",sporocarp,1814,,,LAM PLC
+LE285866,Lamproderma pulveratum,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2739,LAM_PLV_LE285866_sc24900_PB1F_PB1R,MZ044082,LAM PLV
+LE289859,Lamproderma pulveratum,"Russia: Murmansk Oblast, Khibiny Mountains",sporocarp,462,LAM_PLV_LE289859_PB1F_PB1R,MZ044074,LAM PLV
+LE289944,Lamproderma pulveratum,"Russia: Murmansk Oblast, Khibiny Mountains",sporocarp,462,LAM_PLV_LE289944_PB1F_PB1R,MZ044077,LAM PLV
+LE289960,Lamproderma pulveratum,"Russia: Murmansk Oblast, Khibiny Mountains",sporocarp,485,LAM_PLV_LE289960_PB1F_PB1R,MZ044083,LAM PLV
+LE296868,Lamproderma pulveratum,"Russia: Murmansk Oblast, Khibiny Mountains",sporocarp,513,LAM_PLV_LE296868_PB1F_PB1R,MZ044075,LAM PLV
+MYX8389,Lamproderma pulveratum,"Russia: Tver Oblast, Central Forest ture Reserve",sporocarp,243,LAM_PLV_MYX8389_PB1F_PB1R,MZ044070,LAM PLV
+JF431070,Lamproderma puncticulatum,,,,JF431070,JF431070,LAM PUN
+JF431072,Lamproderma puncticulatum,,,,JF431072,JF431072,LAM PUN
+LE285289,Lamproderma sauteri,"Russia: North Caucasus, Teberda ture Reserve",sporocarp,2425,LAM_SAU_LE285289_sc25050_PB1F_PB1R,MZ044085,LAM SAU
+LE296590,Lamproderma sauteri,"Germany: Bavaria, Wettersteingebirge, Garmisch-Partenkirchen",sporocarp,1582,LAM_SAU_LE296590_sc26324_PB1F_PB1R,MZ044064,LAM SAU
+LE296610,Lamproderma sauteri,"Germany: Bavaria, Wettersteingebirge, Garmisch-Partenkirchen",sporocarp,1626,LAM_SAU_LE296610_PB1F_PB1R,MZ044084,LAM SAU
+CWU_MYC_MS_371,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, Kharkiv Forest-Park",sporocarp,177,3637,MZ044048,LAM ZPU
+CWU_MYC_MS_403,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,197,1842_3640,MZ044046,LAM ZPU
+CWU_MYC_MS_408,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,204,1832_3639,MZ044052,LAM ZPU
+CWU_MYC_MS_410,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,201,1831_3642,MZ044049,LAM ZPU
+CWU_MYC_MS_414_a,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,204,1835_3636,MZ044045,LAM ZPU
+CWU_MYC_MS_416,Lamproderma zotopulchellum,"Ukraine: Kharkiv region, Zmiiv, tiol ture Park Homilsha forest",sporocarp,204,1830_3638,MZ044047,LAM ZPU
+LE303030,Lamproderma zotopulchellum,"Kazakhstan: Almaty, Lake Bol. Almatinskoje",sporocarp,2559,LAM_PUL_LE303030_sc26243_PB1F_PB1R,MZ044051,LAM ZPU
+LE316534,Lamproderma zotopulchellum,"Russia: Kamchatka Krai, Central Ridge",sporocarp,1156,LAM_ZPU_LE316534_sc29743_PB1F_PB1R,MZ044044,LAM ZPU
+MM19171,Lamproderma zotopulchellum,"France: Auvergne-Rhone-Alpes, Savoie, Fontaine Le Puits",sporocarp,1415,,,LAM ZPU
+MM35985,Meriderma carestiae,,,,MM35985,MH46096,MER CAR
+MYX328,Meriderma fuscatum,,,,MYX328,MK555303,MER FUS
