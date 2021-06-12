@@ -24,8 +24,7 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
 4. TBA
 
-### Example files
-TBA
+### [Example files](/data)
 
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee).
