@@ -35,5 +35,5 @@ All example files could be found [here](https://github.com/Mycology-Microbiology
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee). <br/>
 
 Example of an ouput:
-<img src="img/tree_example.png" width="500" title="Tree example"/>
+<img src="img/tree_example.png" width="700" title="Tree example"/>
 
