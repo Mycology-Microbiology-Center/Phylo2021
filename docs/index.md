@@ -23,7 +23,7 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 2. [Scheduling jobs on HPC](01.SLURM.md)
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
 4. [Visualization of phylogenetic trees: preparation](03.Tree_viz.md)
-5. [Visualization of phylogenetic trees: annotation](03.Tree_viz.md)
+5. [Visualization of phylogenetic trees: annotation](04.Tree_plotting.md)
 
 ### Example files
 [Description of the input data](examples.md).<br/>
