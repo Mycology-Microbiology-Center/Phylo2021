@@ -19,6 +19,7 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 - TreeGraph 2 viewer might be needed for operations with Bayesian trees. Please install it from http://treegraph.bioinfweb.info/
 
 ### Course materials
+<img src="img/tree_example.png" width="300" title="Tree example" style="float:right"/>
 1. [Environment setup on HPC](00.Environment_setup.md)
 2. [Scheduling jobs on HPC](01.SLURM.md)
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
@@ -33,4 +34,3 @@ All example files could be found [here](https://github.com/Mycology-Microbiology
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee).
 
-<img src="img/tree_example.png" width="300" title="Tree example" style="float:right"/>
