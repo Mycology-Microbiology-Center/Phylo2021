@@ -26,8 +26,8 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 5. [Visualization of phylogenetic trees: annotation](03.Tree_viz.md)
 
 ### Example files
-[Description of the input data](examples.md).
-Example files could be found [here](/data).<br/>
+[Description of the input data](examples.md).<br/>
+All example files could be found [here](/data).
 
 
 ### Contact
