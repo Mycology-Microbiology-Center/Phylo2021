@@ -6,3 +6,16 @@
 
 ## MrBayes input
 [`alignment_mrbayes.nex`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/alignment_mrbayes.nex), aligned sequences in NEXUS format with additional `MrBayes` block containing commands for the analysis.<br/>
+
+
+# Examples of resulting trees
+
+[`tree_raxml.nwk`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_raxml.nwk), phylogenetic tree in Newick format constructed by RaxMl;<br/>
+[`tree_mrbayes.nex`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_mrbayes.nex), phylogenetic tree in NEXUS format constructed by MrBayes;<br/>
+
+
+# Input files used for visualization
+[`labels_extended.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), ...<br/>
+[`labels_simple.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), ...<br/>
+
+
