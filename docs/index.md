@@ -32,3 +32,5 @@ All example files could be found [here](https://github.com/Mycology-Microbiology
 
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee).
+
+<img src="img/tree_example.png" width="300" title="Tree example" style="float:right"/>
