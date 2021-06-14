@@ -24,7 +24,10 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
 4. [Visualization of phylogenetic trees](03.Tree_viz.md)
 
-### [Example files](/data)
+### Example files
+
+Example files coud found [here](/data).<br/>
+[Description of the input data](examples.md).
 
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee).
