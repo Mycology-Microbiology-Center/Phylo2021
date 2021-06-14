@@ -22,7 +22,7 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 1. [Environment setup on HPC](00.Environment_setup.md)
 2. [Scheduling jobs on HPC](01.SLURM.md)
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
-4. TBA
+4. [Visualization of phylogenetic trees](03.Tree_viz.md)
 
 ### [Example files](/data)
 
