@@ -15,7 +15,8 @@
 
 
 # Input files used for visualization
-[`labels_extended.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), ...<br/>
-[`labels_simple.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), ...<br/>
+[`labels_simple.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), main table mapping tree labels to the publication-ready labels;<br/>
+[`labels_extended.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/), alternative table mapping tree labels to the data needed to construct publication-ready labels.<br/>
+
 
 
