@@ -15,7 +15,7 @@ Welcome! With this workshop we want to share knowledge on how to run phylogeneti
 - HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and [PuTTY](https://winscp.net/eng/downloads.php#putty).
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
 For Linux and Mac users, it would be possible to use a terminal emulator.
-- R part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `ape`, `phylotools`, `ggplot2`, `Hmisc`, `gdata`, `pals`, `geiger` (can be installed during the workshop).
+- R part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `treeio`, `ape`, `ggplot2`, `geiger`, and, optionally, `phylotools`, `Hmisc`, `gdata`, `pals` (can be installed during the workshop).
 - TreeGraph 2 viewer might be needed for operations with Bayesian trees. Please install it from http://treegraph.bioinfweb.info/
 
 ### Course materials
