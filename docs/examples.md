@@ -12,7 +12,7 @@
 
 - [`tree_raxml.nwk`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_raxml.nwk), phylogenetic tree in Newick format constructed by RaxMl;<br/>
 - [`tree_mrbayes.nex`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_mrbayes.nex), phylogenetic tree in NEXUS format constructed by MrBayes;<br/>
-- [`tree_mrbayes_figtree.nex`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_mrbayes_figtree.nex), phylogenetic tree in NEXUS format constructed by MrBayes, in a FigTree-friendly format - only for demonstrational purposes;<br/>
+- [`tree_mrbayes_figtree.nex`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/tree_mrbayes_figtree.nex), phylogenetic tree in NEXUS format constructed by MrBayes, in a FigTree-friendly format - only for demonstrational purposes.<br/>
 
 
 # Input files used for visualization
