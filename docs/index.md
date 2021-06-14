@@ -15,19 +15,20 @@ Welcome! With this workshop we want to share knowledge on how to run phylogeneti
 - HPC part: For Windows users, we suggest to use [WinSCP](https://winscp.net/eng/downloads.php) and [PuTTY](https://winscp.net/eng/downloads.php#putty).
 Alternatively, on Windows 10 one may try to use WSL - Windows Subsystem for Linux (see installation guide [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)).
 For Linux and Mac users, it would be possible to use a terminal emulator.
-- `R` part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `ape`,`phylotools`, `ggplot2`, `Hmisc`, `gdata`, `pals`, `geiger` (can be installed during the workshop).
+- `R` part: It's most convenient to work from [RStudio](https://www.rstudio.com/products/rstudio/download/) or a similar application of your choice. Please, make sure you have a reasonably fresh version of R itself. You will need the following R libraries: `ggtree`, `ape`, `phylotools`, `ggplot2`, `Hmisc`, `gdata`, `pals`, `geiger` (can be installed during the workshop).
 - TreeGraph 2 viewer might be needed for operations with Bayesian trees. Please install it from http://treegraph.bioinfweb.info/
 
 ### Course materials
 1. [Environment setup on HPC](00.Environment_setup.md)
 2. [Scheduling jobs on HPC](01.SLURM.md)
 3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
-4. [Visualization of phylogenetic trees](03.Tree_viz.md)
+4. [Visualization of phylogenetic trees: preparation](03.Tree_viz.md)
+5. [Visualization of phylogenetic trees: annotation](03.Tree_viz.md)
 
 ### Example files
-
-Example files coud found [here](/data).<br/>
 [Description of the input data](examples.md).
+Example files could be found [here](/data).<br/>
+
 
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee).
