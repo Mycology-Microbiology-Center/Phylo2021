@@ -1,4 +1,5 @@
 # Examples of input files
+To download, right-click on the file names below and select "Save Link as...". All files can be also accessed from [here](https://github.com/Mycology-Microbiology-Center/Phylo2021/tree/main/data).
 
 ## RaxMl input
 - [`alignment.fas`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/alignment.fas), aligned sequences in FASTA format;<br/>
@@ -18,6 +19,7 @@
 # Input files used for visualization
 - [`labels_simple.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/labels_simple.csv), main table mapping tree labels to the publication-ready labels;<br/>
 - [`labels_extended.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/labels_extended.csv), alternative table mapping tree labels to the data needed to construct publication-ready labels.<br/>
+
 
 
 
