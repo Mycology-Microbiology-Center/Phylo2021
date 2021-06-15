@@ -31,7 +31,7 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 All example files could be found [here](https://github.com/Mycology-Microbiology-Center/Phylo2021/tree/main/data).
 
 _Example of an ouput:_ <br/>
-<img src="img/tree_example.png" width="700" title="Tree example"/>
+<img src="img/tree_example_high.png" width="700" title="Tree example"/>
 
 
 ### Contact
