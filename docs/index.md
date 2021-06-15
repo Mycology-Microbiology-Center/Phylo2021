@@ -19,9 +19,9 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 
 ### Course materials
 
-1. [Environment setup on HPC](00.Environment_setup.md)
-2. [Scheduling jobs on HPC](01.SLURM.md)
-3. [Phylogenetic tree building on HPC](02.Phylo_on_HPC.md)
+1. [Environment setup on HPC cluster](00.Environment_setup.md)
+2. [Scheduling jobs on HPC cluster](01.SLURM.md)
+3. [Phylogenetic tree building on HPC cluster](02.Phylo_on_HPC.md)
 4. [Visualization of phylogenetic trees: preparation](03.Tree_viz.md)
 5. [Visualization of phylogenetic trees: annotation](04.Tree_plotting.md)
 
