@@ -30,10 +30,9 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 [Description of the input data](examples.md).<br/>
 All example files could be found [here](https://github.com/Mycology-Microbiology-Center/Phylo2021/tree/main/data).
 
-
-### Contact
-For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee). <br/>
-
 _Example of an ouput:_ <br/>
 <img src="img/tree_example.png" width="700" title="Tree example"/>
 
+
+### Contact
+For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee). <br/>
