@@ -24,6 +24,8 @@ For Linux and Mac users, it would be possible to use a terminal emulator.
 4. [Visualization of phylogenetic trees: preparation](03.Tree_viz.md)
 5. [Visualization of phylogenetic trees: annotation](04.Tree_plotting.md)
 
+Visualization parts are also available as an R Script file: [`scripts_tree_operations.R`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/scripts_tree_operations.R)
+
 ### Example files
 [Description of the input data](examples.md).<br/>
 All example files could be found [here](https://github.com/Mycology-Microbiology-Center/Phylo2021/tree/main/data).
