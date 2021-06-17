@@ -40,7 +40,8 @@ bayesTree <- bayesTree[[1]]
 ## version, but with few adjustments it also works for BEAST)
 # bayesTree@data <- bayesTree@data[order(as.numeric(bayesTree@data$node)), ]
 
-## Write posteriors as node labels. If tree is already rooted, do not append '' to vector. # bayesTree@phylo$node.label <-
+## Write posteriors as node labels. If tree is already rooted, do not append '' to vector. 
+# bayesTree@phylo$node.label <-
 #   append ('', as.vector(subset(
 #     bayesTree@data$prob,
 #     as.numeric(bayesTree@data$node) > length(bayesTree@phylo$tip.label)
@@ -321,7 +322,7 @@ ggsave(
 
 ## BONUS HIGHLIGHTING CLADES
 
-## For this purpose ggtree provides several geoms, e.g. geom_hilight (yes, "hilight"),
+## For this purpose ggtree provides several geoms, e.g. geom_hilight (yep),
 ## geom_balance (see again https://yulab-smu.top/treedata-book/chapter5.html).
 ## With geom_cladelabel we additionally can mark clades with labeled vertical
 ## bars. We will highlight 2 clades and add 1 labeled bar by adding these
