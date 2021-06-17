@@ -20,6 +20,8 @@ To download, right-click on the file names below and select "Save Link as...". A
 - [`labels_simple.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/labels_simple.csv), main table mapping tree labels to the publication-ready labels;<br/>
 - [`labels_extended.csv`](https://raw.githubusercontent.com/Mycology-Microbiology-Center/Phylo2021/main/data/labels_extended.csv), alternative table mapping tree labels to the data needed to construct publication-ready labels.<br/>
 
+[Home](index.md)
+
 
 
 
