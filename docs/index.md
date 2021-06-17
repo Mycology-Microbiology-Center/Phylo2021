@@ -34,3 +34,4 @@ _Example of an ouput:_ <br/>
 
 ### Contact
 For any organizational questions contact [Iryna Yatsiuk](mailto:iryna.yatsiuk@ut.ee). <br/>
+Workshop prepared by Vladimir Mikryukov, Anton Savchenko, and Iryna Yatsiuk
