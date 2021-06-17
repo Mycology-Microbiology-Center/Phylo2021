@@ -40,7 +40,8 @@ bayesTree <- bayesTree[[1]]
 ## version, but with few adjustments it also works for BEAST)
 # bayesTree@data <- bayesTree@data[order(as.numeric(bayesTree@data$node)), ]
 
-## Write posteriors as node labels. If tree is already rooted, do not append '' to vector. 
+## Write posteriors as node labels. 
+## If tree is already rooted, do not append '' to vector. 
 # bayesTree@phylo$node.label <-
 #   append ('', as.vector(subset(
 #     bayesTree@data$prob,
