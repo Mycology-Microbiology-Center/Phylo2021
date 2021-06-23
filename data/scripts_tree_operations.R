@@ -200,7 +200,7 @@ getSupports <- function(primaryTree, secondaryTree)
 ## Apply function to our trees and proceed to tree annotation.
 supportsTable <- getSupports(primaryTree = bayesTree_rooted, secondaryTree = bootTree_rooted)
 
-## RELABELLING
+## RELABELING
 
 ## Read substitution table for tip labels. The first column must contain the
 ## same values as tips in the tree, the other column(s) - your pretty labels.
