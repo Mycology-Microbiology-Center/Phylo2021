@@ -194,11 +194,11 @@ getSupports <- function(primaryTree, secondaryTree)
       }
     }
   }
-  supportsTable <<- supportsTable
+  return(supportsTable)
 }
 
 ## Apply function to our trees and proceed to tree annotation.
-getSupports(primaryTree = bayesTree_rooted, secondaryTree = bootTree_rooted)
+supportsTable <- getSupports(primaryTree = bayesTree_rooted, secondaryTree = bootTree_rooted)
 
 ## RELABELLING
 
