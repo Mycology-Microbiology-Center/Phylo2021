@@ -8,10 +8,11 @@
 ## versa.
 
 ## Requires geiger and ape (which is a dependency for geiger).
-require(geiger)
+# require(geiger)
 
 getSupports <- function(primaryTree, secondaryTree)
 {
+  require(geiger)
   ## The getAllSubTrees subfunction below atomizes a tree into each individual
   ## subclade, so then we can compare and match these subclades between our 2 trees.
   getAllSubtrees <- function(phy, minSize = 2)
