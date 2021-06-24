@@ -1,17 +1,12 @@
-## The getSupports function compares all the subclades in the primary tree (the
-## one used for visualization) to all the subclades in the secondary tree
-## (needed only for its supports values), and vice versa, and identifies all
-## those clades that have identical content tip-wise. It produces a data frame
-## supportsTable with node IDs of primaryTree and their respective supports from
-## secondaryTree, for further use in visualizations. Primary and secondary trees
-## can be, e.g., Bayesian tree and Maximum Likelihood bootstrap tree, or vice
-## versa.
-
-## Requires geiger and ape (which is a dependency for geiger).
-# require(geiger)
-
 getSupports <- function(primaryTree, secondaryTree)
 {
+  ## The getSupports function compares all the subclades in the primary tree (the
+  ## one used for visualization) to all the subclades in the secondary tree
+  ## (needed only for its supports values), and vice versa, and identifies all
+  ## those clades that have identical content tip-wise. It produces a data frame
+  ## supportsTable with node IDs of primaryTree and their respective supports from
+  ## secondaryTree, for further use in visualizations. Primary and secondary trees
+  ## can be, e.g., Bayesian tree and Maximum Likelihood bootstrap tree, or vice versa.
   ## Requires geiger and ape (which is a dependency for geiger).
   require(geiger)
   ## The getAllSubTrees subfunction below atomizes a tree into each individual
