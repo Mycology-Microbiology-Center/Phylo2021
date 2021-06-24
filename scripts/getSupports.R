@@ -12,6 +12,7 @@
 
 getSupports <- function(primaryTree, secondaryTree)
 {
+  ## Requires geiger and ape (which is a dependency for geiger).
   require(geiger)
   ## The getAllSubTrees subfunction below atomizes a tree into each individual
   ## subclade, so then we can compare and match these subclades between our 2 trees.
@@ -54,7 +55,7 @@ getSupports <- function(primaryTree, secondaryTree)
           data.frame(min(as.data.frame(primaryTree[["edge"]])$V1):max(as.data.frame(primaryTree[["edge"]])$V1),
                      supportsList)
         rownames(supportsTable) <- NULL
-        colnames(supportsTable) <- c("node", "bootstrap")
+        colnames(supportsTable) <- c("node", "support")
       }
     }
   }
