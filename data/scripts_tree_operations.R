@@ -142,60 +142,12 @@ ggtree(bayesTree_rooted) +
 
 ## COMBINE BOOTSTRAPS AND POSTERIORS
 
-## The getSupports function below compares all the subclades in the Bayes tree
+## The getSupports function compares all the subclades in the Bayes tree
 ## to all the subclades in the bootstrap tree, and vice versa, and identifies
 ## all those clades that are identical. It produces a data frame supportsTable
 ## with node IDs and their respective bootstraps for further use in ggtree.
-
-getSupports <- function(primaryTree, secondaryTree)
-{
-  ## The getAllSubTrees subfunction below atomizes a tree into each individual
-  ## subclade, so then we can compare and match these subclades between our 2 trees.
-    getAllSubtrees <- function(phy, minSize = 2)
-  {
-    res <- list()
-    count = 1
-    ntip <- length(phy$tip.label)
-    for (i in 1:phy$Nnode)
-    {
-      l <- tips(phy, ntip + i)
-      bt <- match(phy$tip.label, l)
-      if (sum(is.na(bt)) == 0)
-      {
-        st <- phy
-      }
-      else
-        st <- drop.tip(phy, phy$tip.label[is.na(bt)])
-      if (length(st$tip.label) >= minSize)
-      {
-        res[[count]] <- st
-        count <- count + 1
-      }
-    }
-    res
-  }
-  getAllSubtrees(primaryTree) -> primarySub
-  getAllSubtrees(secondaryTree) -> secondarySub
-  supportsList <- matrix('-', Nnode(primaryTree), 1)
-  for (i in 1:Nnode(primaryTree))
-  {
-    for (j in 1:Nnode(secondaryTree))
-    {
-      match(primarySub[[i]]$tip.label[order(primarySub[[i]]$tip.label)], secondarySub[[j]]$tip.label[order(secondarySub[[j]]$tip.label)]) -> shared
-      match(secondarySub[[j]]$tip.label[order(secondarySub[[j]]$tip.label)], primarySub[[i]]$tip.label[order(primarySub[[i]]$tip.label)]) -> shared2
-      if (sum(is.na(c(shared, shared2))) == 0)
-      {
-        secondaryTree$node.label[j] -> supportsList[i]
-        supportsTable <-
-          data.frame(min(as.data.frame(primaryTree[["edge"]])$V1):max(as.data.frame(primaryTree[["edge"]])$V1),
-                     supportsList)
-        rownames(supportsTable) <- NULL
-        colnames(supportsTable) <- c("node", "bootstrap")
-      }
-    }
-  }
-  return(supportsTable)
-}
+## Fetch getSupports from GitHub:
+source('https://github.com/Mycology-Microbiology-Center/Phylo2021/blob/main/scripts/getSupports.R?raw=TRUE')
 
 ## Apply function to our trees and proceed to tree annotation.
 supportsTable <- getSupports(primaryTree = bayesTree_rooted, secondaryTree = bootTree_rooted)
@@ -224,8 +176,8 @@ tree_data +
       label = paste(
         ifelse(is.na(round(as.numeric(label), 2)),
         '-', round(as.numeric(label), 2)),
-        ifelse(is.na(bootstrap),
-               '-', bootstrap),
+        ifelse(is.na(support),
+               '-', support),
         sep = '/'
       ),
       subset = !isTip & label != 'Root'
@@ -297,8 +249,8 @@ tree_data +
       label = paste(
         ifelse(is.na(round(as.numeric(label), 2)),
         '-', round(as.numeric(label), 2)),
-        ifelse(is.na(bootstrap),
-               '-', bootstrap),
+        ifelse(is.na(support),
+               '-', support),
         sep = '/'
       ),
       subset = !isTip & label != 'Root'
@@ -335,8 +287,8 @@ tree_data +
       label = paste(
         ifelse(is.na(round(as.numeric(label), 2)),
         '-', round(as.numeric(label), 2)),
-        ifelse(is.na(bootstrap),
-               '-', bootstrap),
+        ifelse(is.na(support),
+               '-', support),
         sep = '/'
       ),
       subset = !isTip & label != 'Root'
