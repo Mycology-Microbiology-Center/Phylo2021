@@ -158,7 +158,7 @@ supportsTable <- getSupports(primaryTree = bayesTree_rooted, secondaryTree = boo
 ## same values as tips in the tree, the other column(s) - your pretty labels.
 labels <- read.csv('data/labels_simple.csv')
 
-## Add bootstrap values obtained with a getSupports function above.
+## Add bootstrap values obtained with the getSupports function above.
 tree_data <- ggtree(bayesTree_rooted) %<+% supportsTable
 ## Note: in the same way, the table can contain any other data you may want to
 ## plot, e.g. values of morphological traits. %<+% is a ggtree-specific operator, 
